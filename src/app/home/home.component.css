@@ -1,0 +1,19 @@
+.back{
+    height:50em; background-size:cover; width:auto;
+    background-image:url('/assets/images/inventory.jpg');
+    background-position:50% 50%;
+  }
+
+#ims{
+    padding-top: 210px;
+    width: 1400px;
+}
+
+h3{
+    /* color: blue; */
+    text-align: center;
+    /* font-family: 'Times New Roman', Times, serif;
+    padding-top: 25px; */
+
+
+}
